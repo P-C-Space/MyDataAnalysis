@@ -1,5 +1,9 @@
 # MyDataAnalysis
-2022 데이터에 대한 분석 내용 정리
+* 2022 데이터에 대한 분석 내용 정리
+* 기간 : 2022/07~2022/08
+# 팀프로젝트 1 - 캐글 참여 대회 Paddy
+## Paddy
+* 대회 : 
 ## AMEX
 * 대회 : https://www.kaggle.com/competitions/amex-default-prediction
 ## [여행 상품 신청 여부 예측 경진대회]
