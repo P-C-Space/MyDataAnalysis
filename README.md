@@ -1,7 +1,7 @@
 # MyDataAnalysis
 * 2022 데이터에 대한 분석 내용 정리
 * 기간 : 2022/07~2022/08
-# 팀프로젝트 1 - 캐글 참여 대회 Paddy
+## 팀프로젝트 1 - 캐글 참여 대회 Paddy
 * 대회 : Paddy Doctor: Paddy Disease Classification
 * https://www.kaggle.com/competitions/paddy-disease-classification/overview
 * 내용 : 10종류의 이미지를 보고 벼의 질병상태 예측 
