@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <style>
+        span { 
+            width:200px;
+            color: blue;
+            
+        }
+        </style>
+    </head>
+    <body bgcolor=#d4a3ae>
+        <h1> income predict </h1><br>
+        <form method="POST", action="{{url_for('start')}}">
+            <b><span> CityTier - 거주지 등급(1~3등급) : </span></b>
+            <input type="text" name='a', placeholder="enter 1"> <br><br>
+            <b><span> NumberOfPersonVisiting - 함께 여행을 계획중인 인원 : </span></b>
+            <input type="text" name='b', placeholder="enter 2"> <br><br>
+            <b><span> OwnCar - 자동차 보유 여부 (0:없음,1:있음) </span></b>
+              <input type="text" name='c', placeholder="enter 3"> <br><br>
+            <input type="submit" value='predict!' >
+        </form><br>
+    </body>
+</html>
