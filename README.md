@@ -6,7 +6,8 @@
 * URL : https://www.kaggle.com/competitions/paddy-disease-classification/overview
 * 내용 : 10종류의 이미지를 보고 벼의 질병상태 예측 
 
-* 역할 : 자비스팀 팀장 [발표자료]()
+* 역할 : 자비스팀 팀장 
+* 발표 자료[중간]()[최종]()
 * 사용한 모델 : [InceptionV3]()
 * 코드 : []()
 ### 데이터 분석
