@@ -7,7 +7,7 @@
 * 내용 : 10종류의 이미지를 보고 벼의 질병상태 예측 
 
 * 역할 : 자비스팀 팀장 
-* 발표 자료[중간]()[최종]()
+* 발표 자료 [중간]() [최종]()
 * 사용한 모델 : [InceptionV3]()
 * 코드 : []()
 ### 데이터 분석
@@ -24,10 +24,10 @@
 * URL : https://dacon.io/competitions/official/235959/overview/description
 * 내용 : 주어진 고객 데이터를 토대로 여행 패키지 신청 여부 예측
 ### 데이터 분석
-* EDA [html](https://p-c-space.github.io/MyDataAnalysis/EDA.html)
+* EDA [html]()
 ### 모델 학습
 #### Gradient Boosting
-  * All feature [html](https://p-c-space.github.io/MyDataAnalysis/Try2/main2.html)
-  * Optional feature [html](https://p-c-space.github.io/MyDataAnalysis/Try1/main1.html)
+  * All feature [html]()
+  * Optional feature [html]()
 #### CatBoost
-  * CatBoost [html](https://p-c-space.github.io/MyDataAnalysis/Try3/main3.html)
+  * CatBoost [html]()
