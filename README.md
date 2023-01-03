@@ -10,8 +10,8 @@
 * 발표 자료 [중간](https://p-c-space.github.io/MyDataAnalysis/Announce/Paddy/Jarvis_Middle.pdf) [최종](https://p-c-space.github.io/MyDataAnalysis/Announce/Paddy/Jarvis_Final.pdf)
 * 사용한 모델 : [InceptionV3]()
 * 코드 : [kaggle](https://www.kaggle.com/code/pcoding/highscore?scriptVersionId=115378096)
-### 데이터 분석
-* 데이터 :
+* 코드 기록 : [History]()
+
 ## 팀프로젝트 2 - 캐글 참여 대회 AMEX
 * 대회 : American Express - Default Prediction
 * URL : https://www.kaggle.com/competitions/amex-default-prediction
