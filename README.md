@@ -30,4 +30,4 @@
   * All feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try2_Gradient/main2.ipynb)
   * Optional feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try1_Gradient/main1.ipynb)
 #### CatBoost
-  * CatBoost [html]()
+  * CatBoost [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try4/main4.ipynb)
