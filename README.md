@@ -17,6 +17,8 @@
 * 대회 : American Express - Default Prediction
 * URL : https://www.kaggle.com/competitions/amex-default-prediction
 * 내용 : 고객이 미래에 파산할 것인지 아닌지를 예측
+* 역할 : 타이타닉팀 부팀장 - catboost모델 학습
+* 코드 : [Catboost](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Amex/Try6/main6.ipynb)
 ### 데이터 분석
 * 사용 데이터 : https://www.kaggle.com/datasets/huseyincot/amex-agg-data-pickle - [제작 방법](https://www.kaggle.com/code/huseyincot/amex-agg-data-how-it-created)
 ## 개인 프로젝트 1 - 데아콘 참여 대회 
