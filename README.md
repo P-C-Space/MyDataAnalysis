@@ -19,7 +19,6 @@
 * 내용 : 고객이 미래에 파산할 것인지 아닌지를 예측
 ### 데이터 분석
 * 사용 데이터 : https://www.kaggle.com/datasets/huseyincot/amex-agg-data-pickle - [제작 방법](https://www.kaggle.com/code/huseyincot/amex-agg-data-how-it-created)
-* 
 ## 개인 프로젝트 1 - 데아콘 참여 대회 
 * 대회 : 여행 상품 신청 여부 예측 경진대회
 * URL : https://dacon.io/competitions/official/235959/overview/description
