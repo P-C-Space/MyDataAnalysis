@@ -24,10 +24,10 @@
 * URL : https://dacon.io/competitions/official/235959/overview/description
 * 내용 : 주어진 고객 데이터를 토대로 여행 패키지 신청 여부 예측
 ### 데이터 분석
-* EDA [html]()
+* EDA [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/EDA.ipynb)
 ### 모델 학습
 #### Gradient Boosting
-  * All feature [html]()
-  * Optional feature [html]()
+  * All feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try2_Gradient/main2.html)
+  * Optional feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try1_Gradient/main1.html)
 #### CatBoost
   * CatBoost [html]()
