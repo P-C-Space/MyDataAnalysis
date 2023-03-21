@@ -27,7 +27,7 @@
 * EDA [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/EDA.ipynb)
 ### 모델 학습
 #### Gradient Boosting
-  * All feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try2_Gradient/main2.html)
-  * Optional feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try1_Gradient/main1.html)
+  * All feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try2_Gradient/main2.ipynb)
+  * Optional feature [html](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Travel_Package/Try1_Gradient/main1.ipynb)
 #### CatBoost
   * CatBoost [html]()
