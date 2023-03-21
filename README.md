@@ -7,8 +7,8 @@
 * 내용 : 10종류의 이미지를 보고 벼의 질병상태 예측 
 * 역할 : 자비스팀 팀장 
 * 발표 자료 [중간](https://p-c-space.github.io/MyDataAnalysis/Announce/Paddy/Jarvis_Middle.pdf) [최종](https://p-c-space.github.io/MyDataAnalysis/Announce/Paddy/Jarvis_Final.pdf)
-* 사용한 모델 : [InceptionV3]()
-* 코드 : 
+* 사용한 모델 : [InceptionV3](https://cloud.google.com/tpu/docs/inception-v3-advanced?hl=ko)
+* 코드 : [코드 보기](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Paddy/final.ipynb)
 * 코드 기록 : [download](https://p-c-space.github.io/MyDataAnalysis/Paddy/Submit_Work.xlsx)
 ### 데이터 분석
 * EDA : [html](https://p-c-space.github.io/MyDataAnalysis/Paddy/EDA/EDA.html)
