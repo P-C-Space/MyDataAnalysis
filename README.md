@@ -8,8 +8,8 @@
 * 역할 : 자비스팀 팀장 
 * 발표 자료 [중간](https://p-c-space.github.io/MyDataAnalysis/Announce/Paddy/Jarvis_Middle.pdf) [최종](https://p-c-space.github.io/MyDataAnalysis/Announce/Paddy/Jarvis_Final.pdf)
 * 사용한 모델 : [InceptionV3]()
-* 코드 : [kaggle](https://www.kaggle.com/code/pcoding/highscore?scriptVersionId=115378096)
-* 코드 기록 : [History](https://p-c-space.github.io/MyDataAnalysis/Paddy/Submit Work.xlsx)
+* 코드 : 
+* 코드 기록 : [download](https://p-c-space.github.io/MyDataAnalysis/Paddy/Submit_Work.xlsx)
 ### 데이터 분석
 * EDA : [html](https://p-c-space.github.io/MyDataAnalysis/Paddy/EDA/EDA.html)
 
