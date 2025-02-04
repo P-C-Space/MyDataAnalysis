@@ -11,7 +11,7 @@
 * 코드 : [코드 보기](https://github.com/P-C-Space/MyDataAnalysis/blob/master/Paddy/final.ipynb)
 * 코드 기록 : [download](https://p-c-space.github.io/MyDataAnalysis/Paddy/Submit_Work.xlsx)
 ### 데이터 분석
-* EDA : [html](https://p-c-space.github.io/MyDataAnalysis/Paddy/EDA/EDA.html)
+* EDA : [html](https://p-c-space.github.io/MyDataAnalysis/Paddy/EDA/EDA.ipynb)
 
 ## 팀프로젝트 2 - 캐글 참여 대회 AMEX
 * 대회 : American Express - Default Prediction
